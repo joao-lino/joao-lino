@@ -12,5 +12,3 @@ I'm a college student highly interested in mathematics, computer science, and ph
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 
-<img src="https://i.pinimg.com/originals/72/99/2a/72992a41f68ee2816b1961d47df8e353.gif" width="100%">
-
