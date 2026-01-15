@@ -1,6 +1,6 @@
 > The limits of my language means the limits of my world — Ludwig Wittgenstein
 
-I'm a college student highly interested in mathematics, computer science, and philosophy. 
+I'm a college student at the Federal University of ABC highly interested in mathematics, computer science, and philosophy. 
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
